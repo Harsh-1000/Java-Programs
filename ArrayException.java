@@ -41,6 +41,5 @@ public class ArrayException {
         {
             System.out.println("Exception: " + obj);
         }
-
     }
 }
