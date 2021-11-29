@@ -22,7 +22,5 @@ public class ArrayCheck {
             }
         System.out.println(f!=1);
 
-
-
     }
 }
